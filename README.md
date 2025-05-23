@@ -7,9 +7,10 @@ This repository demonstrates a simple Java project built using Maven and automat
 task-8/
 ├── pom.xml
 └── src/
-  └── main/
-    └── java/
-      └── HelloWorld.java
+    └── main/
+        └── java/
+            └── HelloWorld.java
+
 
 ## Tools Used
 
