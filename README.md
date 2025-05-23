@@ -5,11 +5,11 @@ This repository demonstrates a simple Java project built using Maven and automat
 ## Project Structure
 
 task-8/
-  pom.xml
-  src/
-    main/
-      java/
-        HelloWorld.java
+  pom.xml    
+       src/
+         main/
+           java/
+               HelloWorld.java
 
 
 
